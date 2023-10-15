@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Open positions"
+permalink: /opening/
 author_profile: true
 redirect_from: 
   - /opening/

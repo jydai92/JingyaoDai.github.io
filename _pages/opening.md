@@ -2,7 +2,7 @@
 permalink: /
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "Opening"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /opening/
   - /opening.html

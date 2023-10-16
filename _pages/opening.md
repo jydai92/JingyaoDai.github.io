@@ -4,8 +4,7 @@ title: "Open positions"
 permalink: /opening/
 author_profile: true
 redirect_from: 
-  - /opening/
-  - /opening.html
+  - /resume
 ---
 
 * Two Ph.D. openings on MDO, computational physics, scientific computing, aerodynamics, and fluid mechanics. Graduate students should contact Prof. He (sicheng@utk.edu) and apply to the Department of Mechanical, Aerospace, and Biomendical Engineering (MABE) at UTK.
